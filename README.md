@@ -9,4 +9,4 @@ Skills: HTML / CSS / JS / REACT / NODE
 * Node
 * MySQL, MongoDB
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/talha_iqbal)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/talhaiqbal801)
