@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Talha Iqbal
 #### Full Stack Developer
-I am Talha from Pakistan. I work as a freelance web developer with hands-on experience in the MERN stack. I love to learn new tools and technologies, I'm currently focusing on React and open to full-time job opportunities.
+I am Talha from Pakistan. I work as a freelance web developer with hands-on experience in the MERN stack. I love to leatn something new daily, I'm currently focusing on React and open to full-time job opportunities to improve my skills and expertise.
 
 ## Skills & Experience
 * React & React Native
