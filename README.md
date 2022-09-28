@@ -6,7 +6,7 @@ I am Talha, a professional software developer in Pakistan.
 * React & React Native
 * HTML, CSS, JS
 * Node
-* Nest JS, Typescript
+* Nest JS, TypeScript
 * MySQL, MongoDB
 
 ## Links
