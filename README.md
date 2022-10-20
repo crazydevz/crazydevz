@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Talha Iqbal
 #### Full Stack Developer
-I am Talha, a professional software developer in Pakistan.
+I am Talha, a professional software developer from Pakistan.
 
 ## Skills & Experience
 * React & React Native
